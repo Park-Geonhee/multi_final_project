@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640738433233",
+    "project_id": "mulcam-final",
+    "storage_bucket": "mulcam-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640738433233:android:54a4499485e3c06493cdf0",
+        "android_client_info": {
+          "package_name": "com.example.mulcam_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640738433233-0tav9837c4va4u7uh59n6rm7cd1eqquk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaH7oIigovWPHxCKBAPqqJarrH0eUu3VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640738433233-0tav9837c4va4u7uh59n6rm7cd1eqquk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
